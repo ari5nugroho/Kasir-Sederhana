@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Kuliah\AlProg Praktikum 5796\kasir01\kasir01\main.cpp(412,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kasir01.vcxproj -> D:\Kuliah\AlProg Praktikum 5796\kasir01\x64\Debug\kasir01.exe
